@@ -44,14 +44,18 @@ coverage.
 language inference and BARTSCORE to ensure
 the quality of the generated negative samples.
 
-![](assets/amrfact_negfilter.png?v=1&type=image)
+<div style="text-align:center;">
+    <img src="assets/amrfact_negfilter.png?v=1&type=image"  style="width:50%;">
+</div>
 
 🚧 Experimental results demonstrate our approach
 significantly outperforms previous systems on
 the AGGREFACT-FTSOTA benchmark, showcasing its efficacy in evaluating factuality of
 abstractive summarization.
 
-![](assets/amrfact_main_results.png?v=1&type=image)
+<div style="text-align:center;">
+    <img src="assets/amrfact_main_results.png?v=1&type=image"  style="width:50%;">
+</div>
 
 🌟 Our contributions not only advance the field in generating highquality, factually inconsistent summaries but also provide a scalable and efficient solution for enhancing the factuality evaluation of summarization systems. The results underscore the potential of AMRbased perturbations in improving the integrity and
 reliability of natural language generation.
